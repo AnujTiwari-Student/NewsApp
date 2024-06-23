@@ -1,2 +1,3 @@
-# NewsApp
-My news app, built with React.js, leverages the GNews API to fetch real-time news data. The user interface is crafted using Tailwind CSS, ensuring a sleek and responsive design across all devices. Stay informed seamlessly with our intuitive, mobile-friendly news app.
+Unfortunatly Its Not Working on google Chrome !
+
+![BriefBytes](https://github.com/YogeshNegi10/BriefBytes-News-React-App/assets/169161916/7eb6fdba-f864-4b49-9cdd-da2618732c13)
