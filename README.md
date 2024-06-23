@@ -4,10 +4,10 @@ My news app, built with React.js, leverages the GNews API to fetch real-time new
 
 ![Screenshot 2024-06-23 205659](https://github.com/AnujTiwari-Student/NewsApp/assets/58434371/88929f83-05c6-48e7-ba4a-587f617486b6)
 <div>
-    <img src="https://github.com/AnujTiwari-Student/NewsApp/assets/58434371/48d2868e-e5df-4be4-afd0-3df3e4a91871" alt="Screenshot 1" style="height: 926px; width: 428px;">
+    <img src="https://github.com/AnujTiwari-Student/NewsApp/assets/58434371/48d2868e-e5df-4be4-afd0-3df3e4a91871" alt="Screenshot 1" style="height: 500px; width: auto;">
 </div>
 <div>
-    <img src="https://github.com/AnujTiwari-Student/NewsApp/assets/58434371/0be61029-1345-4c5b-a459-fa72c8d6bec9" alt="Screenshot 2" style="height: 1194px; width: 834px;">
+    <img src="https://github.com/AnujTiwari-Student/NewsApp/assets/58434371/0be61029-1345-4c5b-a459-fa72c8d6bec9" alt="Screenshot 2" style="height: 500px; width: auto;">
 </div>
 
 
